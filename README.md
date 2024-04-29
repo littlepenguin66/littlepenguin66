@@ -1,6 +1,5 @@
 
 # little_penguin66's Profile
-![little_penguin66](https://octodex.github.com/images/puffin.png)
 Hello there! I'm little_penguin66, a student who loves to code and learn about technology. Welcome to my GitHub profile!
 ## About Me
 I'm a penguin who is currently studying computer science and exploring the world of programming. I enjoy working on small projects and contributing to open-source projects to gain experience and collaborate with other developers.
