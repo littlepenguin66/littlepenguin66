@@ -12,9 +12,8 @@ I've worked on various small projects, including:
 ## Contact
 If you have any questions or want to collaborate on a project, feel free to reach out to me:
 - **Email**: littlepenguinzq@gmail.com
-- **X**: @little_penguin66
+- **X**: @Jerry_z
 ## Find Me Elsewhere
-- **LinkedIn**: Jerry_z
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=littlepenguin66&color=blue&style=flat)
 Thanks for visiting my profile! 🐧
 
