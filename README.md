@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+little_penguin66!;Welcome+to+my+GitHub+Profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+little_penguin66!;Welcome+to+my+GitHub+Profile!&center=true&size=20">
 </div>
 
 <p align="center">
@@ -16,6 +16,16 @@
 - 💻 Open source enthusiast
 - 🌱 Always learning and growing
 - 🤝 Looking to collaborate on interesting projects
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake.svg" />
+</picture>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -71,14 +81,6 @@ Blazingly fast multithreaded download tool written in Rust.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake.svg" />
-</picture>
 
 <!--
 **littlepenguin66/littlepenguin66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
