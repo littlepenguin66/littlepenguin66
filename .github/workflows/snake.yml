@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # 你的 GitHub 用户名
-          github_user_name: little_penguin66
+          github_user_name: littlepenguin66
           # 生成 gif 和 svg 两种格式
           outputs: |
             dist/github-snake.svg
