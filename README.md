@@ -31,38 +31,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ### Development Environment
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zed&logoColor=white"/>
 </p>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="[[link-to-geotools]](https://github.com/littlepenguin66/GeoTools)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=littlepenguin66&repo=GeoTools&theme=dark"/>
-  </a>
-  <a href="https://github.com/littlepenguin66/MatrixKill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=littlepenguin66&repo=MatrixKill&theme=dark"/>
-  </a>
-  <a href="https://github.com/littlepenguin66/multhreadown">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=littlepenguin66&repo=multhreadown&theme=dark"/>
-  </a>
-</div>
-
-### 🗺️ Geotools
-A Flutter-based geophysics toolkit with intuitive interface and powerful features.
-
-### 📐 MatrixKill
-High-performance linear equation system solver supporting various iterative methods.
-
-### ⬇️ Multhreadown
-Blazingly fast multithreaded download tool written in Rust.
 
 ## 📊 GitHub Stats
 
@@ -82,17 +58,8 @@ Blazingly fast multithreaded download tool written in Rust.
   </a>
 </p>
 
-<!--
-**littlepenguin66/littlepenguin66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-contribution-grid-snake.svg"/>
+</div>
