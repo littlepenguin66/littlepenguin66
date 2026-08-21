@@ -12,7 +12,7 @@
 
 > A passionate geophysics student who loves coding and exploring new technologies! 
 
-- 🎓 Currently studying **Geophysics**
+- 🎓 Currently major in **Geophysics**
 - 💻 Open source enthusiast
 - 🌱 Always learning and growing
 - 🤝 Looking to collaborate on interesting projects
@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
