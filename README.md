@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+little_penguin66!;Welcome+to+my+GitHub+Profile!&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+peguri26!;Welcome+to+my+GitHub+Profile!&center=true&size=20">
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Study-Geophysics-blue"/>
   <img src="https://img.shields.io/badge/Location-China-red"/>
-  <img src="https://komarev.com/ghpvc/?username=littlepenguin66&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=peguri26&color=blue&style=flat"/>
 </p>
 
 ## 🧑‍🎓 About Me
@@ -20,9 +20,9 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/littlepenguin66/littlepenguin66/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peguri26/peguri26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peguri26/peguri26/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/peguri26/peguri26/output/github-snake.svg" />
 </picture>
 
 ---
@@ -43,13 +43,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=littlepenguin66&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peguri26&theme=dark" alt="GitHub Streak" />
 </p>
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:littlepenguinzq@gmail.com">
+  <a href="mailto:ltpeguri26@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://x.com/Jerryz66431537">
